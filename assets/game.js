@@ -1,9 +1,5 @@
 // array of words
-<<<<<<< HEAD
 const words = ['Tyrannosaurus','Diplodocus','Velociraptor','Triceratops','Brontosaurus','Brachiosaurus','Pterosaur','Stegosaurus','Archaeopteryx','Gallimimus','Allosaurus','Argentinosaurus','Spinosaurus','Parasaurolophus','Iguanodon','Ankylosaurus','Protoceratops','Styracosaurus','Pachycephalosaurus','Amargasaurus','Ornithomimus','Deinonychus','Corythosaurus','Mamenchisaurus','Tuojiangosaurus','Lambeosaurus','Thecodontosaurus','Maiasaura',]
-=======
-const words = ['wordinator','findinator','laserinator','alphabeinator','learninator',]
->>>>>>> f55068e4f2083d9d8ddd9a4014438f6e777c3ed7
 
 //  gets new random word
 const getRandWord = function () {
